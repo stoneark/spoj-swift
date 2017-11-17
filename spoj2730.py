@@ -1,3 +1,6 @@
+# http://www.spoj.com/problems/EXPECT/
+# EXPECT - Life, the Universe, and Everything (Interactive)
+
 import sys
 
 while True:
