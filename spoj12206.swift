@@ -34,7 +34,10 @@ extension String {
 }
 
 let t = Int(readLine()!)!
-for _ in 0..<t {
+for index in 0..<t {
+    if index > 0 {
+        _ = readLine()
+    }
     let n = Int(readLine()!)!
     let testcase = readLine()!
     let passbook = readLine()!
